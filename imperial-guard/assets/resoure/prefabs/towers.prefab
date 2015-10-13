@@ -1,0 +1,169 @@
+[
+  {
+    "__type__": "Fire.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "w": {
+        "__id__": 1
+      },
+      "t": {
+        "level": 0,
+        "gridIndex": 0,
+        "tempBullet": {
+          "__uuid__": "b7f88854-e11b-489f-968b-910340b0135a"
+        },
+        "rangeIcon": null,
+        "image": {
+          "__id__": 3
+        },
+        "_rangeIconPos": null,
+        "_target": null,
+        "_curTime": 0,
+        "_firingInterval": 0.3
+      },
+      "m": "d625eh1uxNFNYtdVhSkZJNP",
+      "c": [
+        {
+          "w": {
+            "__id__": 5
+          }
+        },
+        {
+          "w": {
+            "__id__": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "__type__": "Runtime.NodeWrapper",
+    "_name": "towers",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 2
+    },
+    "_position": [
+      666.9999999999998,
+      375
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      0,
+      0
+    ],
+    "_color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "_anchorPoint": [
+      0,
+      0
+    ],
+    "_visible": true
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "a5f3cVM20FF4YS8ZPMKnf4q"
+  },
+  {
+    "__type__": "Runtime.SpriteWrapper",
+    "_name": "image",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 4
+    },
+    "_position": [
+      -2.2737367544323206e-13,
+      5.684341886080802e-14
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      54,
+      76
+    ],
+    "_color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_texture": {
+      "__uuid__": "38297f34-7adc-4361-8a25-1b92b9676044"
+    }
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "5a264M3Da9DKbcxXh4O0dTL"
+  },
+  {
+    "__type__": "Runtime.LabelTTFWrapper",
+    "_name": "text",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 6
+    },
+    "_position": [
+      -2.2737367544323206e-13,
+      1.1368683772161603e-13
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      0,
+      18
+    ],
+    "_color": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_text": "",
+    "_fontSize": 16,
+    "_fontFamily": "Arial",
+    "_align": 0,
+    "_verticalAlign": 0,
+    "_boundingBox": [
+      0,
+      0
+    ],
+    "_lineHeight": 18,
+    "_valOf$font": null
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "4d731owK/NA060tO7chlWYX"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "__type__": "Fire.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "w": {
+        "__id__": 1
+      }
+    }
+  },
+  {
+    "__type__": "Runtime.SliderWrapper",
+    "_name": "hp",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 2
+    },
+    "_position": [
+      0,
+      40
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      60,
+      10
+    ],
+    "_color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_enabled": true,
+    "_touchEnabled": true,
+    "_valOf$anchorAlign": 1,
+    "_valOf$widgetLayoutType": 3,
+    "_valOf$anchorLeft": 0,
+    "_valOf$anchorRight": 0,
+    "_valOf$anchorTop": 0,
+    "_valOf$anchorBottom": 0,
+    "_enableScale9": true,
+    "_capInsets": [
+      2,
+      2,
+      1,
+      1
+    ],
+    "_valOf$left": 2,
+    "_valOf$right": 2,
+    "_valOf$top": 2,
+    "_valOf$bottom": 2,
+    "_percent": 33,
+    "bgBar": {
+      "__uuid__": "214369c7-8b27-4782-a18d-deff97d729c9"
+    },
+    "fgBar": {
+      "__uuid__": "f7ac02ec-ec5a-432c-9e6c-d830d885f918"
+    }
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "56e32/oxa1MtYqWiCUgjHSC"
+  }
+]

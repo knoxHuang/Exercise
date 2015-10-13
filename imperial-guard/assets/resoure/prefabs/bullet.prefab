@@ -1,0 +1,54 @@
+[
+  {
+    "__type__": "Fire.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "w": {
+        "__id__": 1
+      }
+    }
+  },
+  {
+    "__type__": "Runtime.SpriteWrapper",
+    "_name": "bullet",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 2
+    },
+    "_position": [
+      666.9999999999999,
+      374.99999999999994
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      20,
+      4
+    ],
+    "_color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_texture": {
+      "__uuid__": "6b4ce81e-4df2-42d7-b0dc-7cfede0cb07c"
+    }
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "89eabOaCnpGjacyQzcX4bU3"
+  }
+]

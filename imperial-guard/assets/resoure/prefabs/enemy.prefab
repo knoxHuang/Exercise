@@ -1,0 +1,66 @@
+[
+  {
+    "__type__": "Fire.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "w": {
+        "__id__": 1
+      },
+      "t": {
+        "tempHp": {
+          "__uuid__": "74b1f3d2-1757-4054-890c-e9ef526561e3"
+        },
+        "hp": 5,
+        "hasBoss": false,
+        "speed": 0.6,
+        "_moveAction": null,
+        "_idx": 0,
+        "_pathList": []
+      },
+      "m": "ceac6DfBghJWrELksxgepvr"
+    }
+  },
+  {
+    "__type__": "Runtime.SpriteWrapper",
+    "_name": "enemy",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 2
+    },
+    "_position": [
+      145.4054203935931,
+      -12.505959892231019
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      53,
+      47
+    ],
+    "_color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_texture": {
+      "__uuid__": "bfa51fe4-a1ac-4c99-88bb-cab029cceb5c"
+    }
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "05e27DzAuhEcJHIkRoZPEcv"
+  }
+]

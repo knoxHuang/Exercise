@@ -1,0 +1,54 @@
+[
+  {
+    "__type__": "Fire.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "w": {
+        "__id__": 1
+      }
+    }
+  },
+  {
+    "__type__": "Runtime.SpriteWrapper",
+    "_name": "boss",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 2
+    },
+    "_position": [
+      843.9095696705489,
+      500.8950733944545
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      79,
+      68
+    ],
+    "_color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_texture": {
+      "__uuid__": "a1bef8c7-ca1a-44d7-a308-1becb82ffa10"
+    }
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "c6ceedSUKZN6rSrxDhl8LI8"
+  }
+]

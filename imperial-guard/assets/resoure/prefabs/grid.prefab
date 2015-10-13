@@ -1,0 +1,110 @@
+[
+  {
+    "__type__": "Fire.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "w": {
+        "__id__": 1
+      },
+      "c": [
+        {
+          "w": {
+            "__id__": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "__type__": "Runtime.SpriteWrapper",
+    "_name": "grid",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 2
+    },
+    "_position": [
+      725.7124538946618,
+      352.2004187293633
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      100,
+      100
+    ],
+    "_color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_texture": {
+      "__uuid__": "8dcad237-6076-4375-a2ff-65f6383c9f9d"
+    }
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "bfa8dlh2AhGZIl/XyBuflv+"
+  },
+  {
+    "__type__": "Runtime.LabelTTFWrapper",
+    "_name": "text",
+    "_objFlags": 0,
+    "_id": "",
+    "_prefab": {
+      "__id__": 4
+    },
+    "_position": [
+      50,
+      49.99999999999994
+    ],
+    "_scale": [
+      1,
+      1
+    ],
+    "_rotation": 0,
+    "_size": [
+      0,
+      18
+    ],
+    "_color": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "_anchorPoint": [
+      0.5,
+      0.5
+    ],
+    "_visible": true,
+    "_text": "",
+    "_fontSize": 16,
+    "_fontFamily": "Arial",
+    "_align": 0,
+    "_verticalAlign": 0,
+    "_boundingBox": [
+      0,
+      0
+    ],
+    "_lineHeight": 18,
+    "_valOf$font": null
+  },
+  {
+    "__type__": "Fire.PrefabInfo",
+    "asset": null,
+    "fileId": "33030E2PUdIwJOJiyu6X6ns"
+  }
+]

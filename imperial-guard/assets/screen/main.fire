@@ -1,0 +1,345 @@
+[
+  {
+    "__type__": "Fire.Scene",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "scene": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "Runtime.SceneWrapper",
+    "content": [
+      {
+        "c": [
+          {
+            "w": {
+              "__id__": 1
+            },
+            "t": {
+              "orientationTexture": {
+                "__uuid__": "5427f320-53f0-479f-ba58-32185b575b3d"
+              },
+              "btnPlay": {
+                "__id__": 2
+              }
+            },
+            "m": [
+              "71e8fYKkQFGIpi3mEU6zqyA",
+              "5d0c1gDgstA+YufGZ+P+Hx3"
+            ],
+            "c": [
+              {
+                "w": {
+                  "__id__": 3
+                },
+                "c": [
+                  {
+                    "w": {
+                      "__id__": 4
+                    }
+                  },
+                  {
+                    "w": {
+                      "__id__": 5
+                    }
+                  }
+                ]
+              },
+              {
+                "w": {
+                  "__id__": 6
+                },
+                "c": [
+                  {
+                    "w": {
+                      "__id__": 2
+                    },
+                    "c": [
+                      {
+                        "w": {
+                          "__id__": 7
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "uuid": "028e96f2-b87f-425b-9332-f92257b64136"
+      },
+      {
+        "__type__": "Runtime.NodeWrapper",
+        "_name": "home",
+        "_objFlags": 0,
+        "_id": "a07e7SEN2pAzr3H8EOvkt4J",
+        "_prefab": null,
+        "_position": [
+          0,
+          0
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_size": [
+          0,
+          0
+        ],
+        "_color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_anchorPoint": [
+          0,
+          0
+        ],
+        "_visible": true
+      },
+      {
+        "__type__": "Runtime.ButtonWrapper",
+        "_name": "button_play",
+        "_objFlags": 0,
+        "_id": "95d4cj/1oNB3LHqbEn3HPxQ",
+        "_prefab": null,
+        "_position": [
+          0,
+          0
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_size": [
+          140,
+          140
+        ],
+        "_color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_anchorPoint": [
+          0.5,
+          0.5
+        ],
+        "_visible": true,
+        "_enabled": true,
+        "_touchEnabled": true,
+        "_valOf$anchorAlign": 1,
+        "_valOf$widgetLayoutType": 3,
+        "_valOf$anchorLeft": 0,
+        "_valOf$anchorRight": 0,
+        "_valOf$anchorTop": 0,
+        "_valOf$anchorBottom": 0,
+        "_enableScale9": false,
+        "_capInsets": null,
+        "_valOf$left": 0,
+        "_valOf$right": 0,
+        "_valOf$top": 0,
+        "_valOf$bottom": 0,
+        "_text": "",
+        "_fontSize": 16,
+        "_fontFamily": "Arial",
+        "_fontColor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_normalTexture": {
+          "__uuid__": "29dc59e9-1fdc-4fdc-a834-64ed54afae95"
+        },
+        "_valOf$_font": null
+      },
+      {
+        "__type__": "Runtime.LayerWrapper",
+        "_name": "bgLayer",
+        "_objFlags": 0,
+        "_id": "54263P2TFVJ/IvRWdNgbJ1r",
+        "_prefab": null,
+        "_position": [
+          0,
+          0
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_size": [
+          1334,
+          750
+        ],
+        "_color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_anchorPoint": [
+          0,
+          0
+        ],
+        "_visible": true,
+        "_valOf$bake": false
+      },
+      {
+        "__type__": "Runtime.Scale9SpriteWrapper",
+        "_name": "bg",
+        "_objFlags": 0,
+        "_id": "b5d4fwL3hxKRYsv2AnMiwxe",
+        "_prefab": null,
+        "_position": [
+          0,
+          0
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_size": [
+          1334,
+          750
+        ],
+        "_color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_anchorPoint": [
+          0,
+          0
+        ],
+        "_visible": true,
+        "_enabled": true,
+        "_touchEnabled": false,
+        "_valOf$anchorAlign": 1,
+        "_valOf$widgetLayoutType": 3,
+        "_valOf$anchorLeft": 0,
+        "_valOf$anchorRight": 0,
+        "_valOf$anchorTop": 0,
+        "_valOf$anchorBottom": 0,
+        "_enableScale9": true,
+        "_capInsets": null,
+        "_valOf$left": 0,
+        "_valOf$right": 0,
+        "_valOf$top": 0,
+        "_valOf$bottom": 0,
+        "texture": {
+          "__uuid__": "55b561f3-e79c-495a-89b1-936d33051b60"
+        }
+      },
+      {
+        "__type__": "Runtime.SpriteWrapper",
+        "_name": "title",
+        "_objFlags": 0,
+        "_id": "e0862TJV8BBfoQfpD/ks0pT",
+        "_prefab": null,
+        "_position": [
+          667,
+          488.0841692919863
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_size": [
+          628,
+          118
+        ],
+        "_color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_anchorPoint": [
+          0.5,
+          0.5
+        ],
+        "_visible": true,
+        "_texture": {
+          "__uuid__": "1c0fc574-a212-4b26-b8cc-bae13a9c67e4"
+        }
+      },
+      {
+        "__type__": "Runtime.LayerWrapper",
+        "_name": "uiLayer",
+        "_objFlags": 0,
+        "_id": "b8e99tlmplFKIEkuuAPq/t2",
+        "_prefab": null,
+        "_position": [
+          667.0000000000002,
+          207.296872348291
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_size": [
+          0,
+          0
+        ],
+        "_color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_anchorPoint": [
+          0,
+          0
+        ],
+        "_visible": true,
+        "_valOf$bake": false
+      },
+      {
+        "__type__": "Runtime.SpriteWrapper",
+        "_name": "button_play",
+        "_objFlags": 0,
+        "_id": "0c2a9wnIDBDwpjU7we95xv4",
+        "_prefab": null,
+        "_position": [
+          76.13011155047951,
+          69.51010185043788
+        ],
+        "_scale": [
+          1,
+          1
+        ],
+        "_rotation": 0,
+        "_size": [
+          44,
+          52
+        ],
+        "_color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "_anchorPoint": [
+          0.5,
+          0.5
+        ],
+        "_visible": true,
+        "_texture": {
+          "__uuid__": "4c471326-1361-48b7-83a9-49e2fd38ce63"
+        }
+      }
+    ]
+  }
+]
